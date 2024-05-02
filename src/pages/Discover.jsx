@@ -1,3 +1,3 @@
-const Discover = () => <div>Discover</div>;
+const Discover = () => <div>Discove</div>;
 
 export default Discover;
